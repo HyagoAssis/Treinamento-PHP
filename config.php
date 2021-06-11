@@ -3,7 +3,7 @@
 return [
     'database' => [
         'name' => 'crud',
-        'username' => 'root',
+        'username' => 'hyago',
         'password' => '',
         'connection' => 'mysql:host=127.0.0.1',
         'options' => [
